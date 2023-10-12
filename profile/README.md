@@ -11,7 +11,8 @@
 
 ## What is TitanML?
 
-TitanML makes large language model applications easy, fast and cheap to build and deploy 🚀.
+TitanML enables machine learning teams to effortlessly and efficiently deploy large language models (LLMs). Founded by Dr. James Dborin, Dr. Fergus Finn and Meryem Arik, and backed by key industry partners including AWS and Intel, TitanML is a team of dedicated deep learning engineers on a mission to supercharge the adoption of enterprise AI.
+
 
 ### 🛫 [Takeoff](https://docs.titanml.co/docs/intro)
 - The fastest way to inference LLMs locally
