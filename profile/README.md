@@ -16,7 +16,7 @@ TitanML enables companies to effortlessly and efficiently deploy open-source lar
 
 ### 🛫 [Takeoff](https://docs.titanml.co/docs/intro)
 - The fastest way to inference the lastest open-source LLMs from Meta, Mistral, Google, and more locally
-- Get a free trial license now! Get your free license [here](https://www.titanml.co/contact).
+- Get a free trial license now! Grab your free license [here](https://www.titanml.co/contact).
 - Some of the benefits of using 🛫 Takeoff 🛫: 
     - Batching support
     - Multi-gpu inference
